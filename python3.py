@@ -1,1 +1,1 @@
-pint("old file new")
+pint("new file")
